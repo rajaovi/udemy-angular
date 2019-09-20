@@ -1,7 +1,13 @@
+Create Fresh: 
+1.npm install @angular/cli@latest
+2.ng new "Proj Name"
+3.cd "Proj Name"
+4.ng serve
+
 Port 4200 is already in use:
-netstat -ano | findstr :4200
-tskill yourPID
-Restart your server
+1.netstat -ano | findstr :4200
+2.tskill yourPID
+3.Restart your server
 
 
 How Angular loads:
