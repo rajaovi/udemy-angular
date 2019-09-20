@@ -2,3 +2,8 @@ Port 4200 is already in use:
 netstat -ano | findstr :4200
 tskill yourPID
 Restart your server
+
+
+How Angular loads:
+1.main.ts 
+2.app.module.ts
