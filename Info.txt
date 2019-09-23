@@ -13,3 +13,7 @@ Port 4200 is already in use:
 How Angular loads:
 1.main.ts 
 2.app.module.ts
+
+Install Bootstarp
+1.npm install --save bootstrap@3  => The @3  is important!
+2.angular.json  - "node_modules/bootstrap/dist/css/bootstrap.min.css"
